@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thabiso-Makhubu
 - 👀 I’m a Sales Analyst
-- 🌱 I’m currently learning SQL, PowerBI and Tableau
+- 🌱 I’m proficient in SQL, PowerBI and Tableau
 - 📫 How to reach me https://www.linkedin.com/in/thabiso-makhubu/
 
 <!---
